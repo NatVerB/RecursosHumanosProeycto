@@ -5,7 +5,7 @@
 <p align="center">
 <h3 align="center">¡Holi, Bienvenido A Nuestro Repositorio!</h3>
 </p>
-<p align="center">Nos alegra mucho que estés aquí, por eso diseñamos un ReadMe que fuera muy bonito, para poder contarte un poco de todo esto :D</p>
+<p align="center">Nos alegra mucho que estés aquí, por eso diseñamos un ReadMe que fuera muy bonito, para poder contarte un poco de todo esto 🖤</p>
 
 No se si seas consciente de lo importante que es para nosotras este repositorio, ya que es nuestro primer repositorio diseñado, y administrado solo por nosotras, lo que quiere deecir que es algo que aprendimos hace poco jiji y por eso es tan especial.
 
