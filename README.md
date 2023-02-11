@@ -1,6 +1,6 @@
 <p align="center">
 <h1 align="center">Repositorio: Primer Proyecto En GitHub Arekusandora🧛 y Nat✨</h1>
-<img width="400px" src="https://i.pinimg.com/564x/cf/2b/1d/cf2b1dd2e4650a3e8c6e9ecbf6b88436.jpg" align="center"/>
+<img width="100px" src="https://i.pinimg.com/564x/cf/2b/1d/cf2b1dd2e4650a3e8c6e9ecbf6b88436.jpg" align="center"/>
 
 
 
