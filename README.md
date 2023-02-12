@@ -78,12 +78,12 @@ Cada una de las ventanas funcionales de la interfaz gráfica suele tener detras 
 
 <h3 align="center">Te dejamos a continuación las clases de la GUI por si te interesan:</h3>
 
-- [AgregarCandidato](https://github.com/NatVerB/RecursosHumanosProyecto/blob/main/RecursosHumanosNV/bin/co/edu/unbosque/view/AgregarCandidato.class)
-- [EliminarCandidato](https://github.com/NatVerB/RecursosHumanosProyecto/blob/main/RecursosHumanosNV/bin/co/edu/unbosque/view/EliminarCandidato.class)
-- [ModificarCandidato](https://github.com/NatVerB/RecursosHumanosProyecto/blob/main/RecursosHumanosNV/bin/co/edu/unbosque/view/ModificarCandidato.class)
-- [ListarCandidatos](https://github.com/NatVerB/RecursosHumanosProyecto/blob/main/RecursosHumanosNV/bin/co/edu/unbosque/view/ListarCandidatos.class)
-- [ListaEspecifica](https://github.com/NatVerB/RecursosHumanosProyecto/blob/main/RecursosHumanosNV/bin/co/edu/unbosque/view/ListaEspecifica.class)
-- [Menu](https://github.com/NatVerB/RecursosHumanosProyecto/blob/main/RecursosHumanosNV/bin/co/edu/unbosque/view/Menu.class)
+- [AgregarCandidato✔](https://github.com/NatVerB/RecursosHumanosProyecto/blob/main/RecursosHumanosNV/bin/co/edu/unbosque/view/AgregarCandidato.class)
+- [EliminarCandidato❌](https://github.com/NatVerB/RecursosHumanosProyecto/blob/main/RecursosHumanosNV/bin/co/edu/unbosque/view/EliminarCandidato.class)
+- [ModificarCandidato🔄](https://github.com/NatVerB/RecursosHumanosProyecto/blob/main/RecursosHumanosNV/bin/co/edu/unbosque/view/ModificarCandidato.class)
+- [ListarCandidatos📄](https://github.com/NatVerB/RecursosHumanosProyecto/blob/main/RecursosHumanosNV/bin/co/edu/unbosque/view/ListarCandidatos.class)
+- [ListaEspecifica📑](https://github.com/NatVerB/RecursosHumanosProyecto/blob/main/RecursosHumanosNV/bin/co/edu/unbosque/view/ListaEspecifica.class)
+- [Menu📋](https://github.com/NatVerB/RecursosHumanosProyecto/blob/main/RecursosHumanosNV/bin/co/edu/unbosque/view/Menu.class)
 
 
 
