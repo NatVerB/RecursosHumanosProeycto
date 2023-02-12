@@ -37,8 +37,10 @@ Sumado a esto, el programa debe poder eliminar, listar y modificar a cada candid
 
 ## [Controller:](https://github.com/NatVerB/RecursosHumanosProyecto/tree/main/RecursosHumanosNV/bin/co/edu/unbosque/controller)
 
-* AplMain
- *holi 
+* [AplMain](https://github.com/NatVerB/RecursosHumanosProyecto/blob/main/RecursosHumanosNV/bin/co/edu/unbosque/controller/AplMain.class)
+
+ Esta es la clase Main, la cual llamamos comunmente AplMain, es la clase que contendrá el método que dará "Inicio" como su nombre lo indica, a todo el
+ funcionamiento del programa.
 
 
 
