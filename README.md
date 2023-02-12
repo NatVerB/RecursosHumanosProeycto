@@ -66,3 +66,7 @@ Esta es la clase FileHandler, la cual tiene como función el correcto serializad
 
 Cuenta con dos métodos muy importantes: readSerializable() y writeSerializable(). Estos métodos nos servirán, uno: Para obtener la informacion del candidato, ya añadida al archivo serializado, para luego poder agregarlos nuevos al ejecutar el programa y tener la información válida. Dos: Para escribir la información de los candidatos o las modificaciones realizadas a los mismos en el documento serializado para que se encuentre actualizado.
 
+* [Archivo Serializado](https://github.com/NatVerB/RecursosHumanosProyecto/blob/main/RecursosHumanosNV/bin/co/edu/unbosque/model/persistance/Serializable.n)
+
+Lo siguiente que encontrarás en este paquete, será el archivo serializado, este puede crearse directamente desde el Software y será el archivo en el que se guarde o se lea toda la información serializada 🤑.
+
