@@ -9,7 +9,10 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p align="center">No se si seas consciente de lo importante que es para nosotras este repositorio, a ver, es nuestro primer repositorio diseñado, y administrado solo por nosotras, lo que quiere decir que es algo que aprendimos hace poco jiji y por eso es tan especial 😎</p>
+<p align="center">No se si seas consciente de lo importante que es para nosotras este repositorio, a ver, es nuestro primer repositorio diseñado, y administrado solo por nosotras, lo que quiere decir que es algo que aprendimos hace poco jiji</p>
+
+<h3 align="center">Y por eso es tan especial 😎</h3>
+
 <p align="center">Bueno, tambien lo hace especial el hecho de que sea el ReadMe del proyecto que probablemente vas a ver despues :v</p>
 
 
