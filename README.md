@@ -16,9 +16,9 @@
 <p align="center">Bueno, tambien lo hace especial el hecho de que sea el ReadMe del proyecto que probablemente vas a ver a continuacíon :v</p>
 <p align="center">Pero esas son cosas menores, pasemos al pryecto...</p>
 
-<body>
-<p style="color:blue";>Recursos Humanos</p>
-</body>
+
+# Recursos Humanos
+
 Una "Empresa" de recursos humanos nos ha contratado, a nosotras [Nat✨](https://github.com/NatVerB) y [Arekusandora🧛](https://github.com/ArekuInBlueee), para elaborar un programa que le ayude a almacenar los candidatos nuevos de la empresa. Deben ser ingresados con los siguientes datos:
 
  - Nombres
