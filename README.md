@@ -19,7 +19,7 @@
 
 # Recursos Humanos
 
-Una "Empresa" de recursos humanos nos ha contratado, a nosotras [Nat✨](https://github.com/NatVerB) y [Arekusandora🧛](https://github.com/ArekuInBlueee), para elaborar un programa que le ayude a almacenar los candidatos nuevos de la empresa. Deben ser ingresados con los siguientes datos:
+Una "Empresa" de recursos humanos nos ha contratado, a nosotras [Nat💙](https://github.com/NatVerB) y [Arekusandora🧛](https://github.com/ArekuInBlueee), para elaborar un programa que le ayude a almacenar y gestionar la información de los candidatos nuevos que la empresa va a recibir. Uno de los requerimientos básicos del programa es que se debe agregar a cada candidato diligenciando obligatoriamente cada uno de los siguientes datos:
 
  - Nombres
 
@@ -31,8 +31,7 @@ Una "Empresa" de recursos humanos nos ha contratado, a nosotras [Nat✨](https:/
 
  - Cargo
 
-Además de poder crearlos, debe poder eliminarlos, listarlos y modificarlos. Todo esto 
-debe llevar el patrón MVC, Clases DAO Y DTO y Serializado.
+Sumado a esto, el programa debe poder eliminar, listar y modificar a cada candidato, además de poder listar a todos los candidatos que la empresa tiene registrados. Se requiere que el Software sea elaborado con el patrón MVC, incluya las Clases DAO Y DTO y sea capaz de serializar y deserializar la información.
 
 
 
