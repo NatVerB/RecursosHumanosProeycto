@@ -91,6 +91,6 @@ Bien, ahora que te hemos explicado un poco mas de que va esto, esperamos que te 
 
 ## Hasta Luego 💋
 
-<span style="color:yellow">ReadMe redactado y diseñado por Alejandra Valero y Natalia Vergara</span>
+*ReadMe diseñado y redactado por Alejandra Valero y Natalia Vergara*
 
-*Imagen tomada de Pinterest*
+*Imagenes tomadas de Pinterest*
