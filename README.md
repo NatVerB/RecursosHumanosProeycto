@@ -57,3 +57,10 @@ Esta es la clase CandidatosDAO, es la que contiene todos los metodos que se van 
 Esta es la clase CandidatosDTO, es en donde crearemos al objeto "Candidatos" con sus respectivas características y atributos, con el fin de poder guardar sus datos y representarlo cuando lo necesitemos.
 
 ### [Persistance:](https://github.com/NatVerB/RecursosHumanosProyecto/tree/main/RecursosHumanosNV/bin/co/edu/unbosque/model/persistance)
+
+Persistance, es un paquete que creamos dentro del paquete modelo o "Model", ya que tambien trabaja temas de lógica en el software, pero se separa por que se encarga de algo en específico. En nuestro caso será el paquete que contenga las clases de serializado.
+
+* [FileHandler](https://github.com/NatVerB/RecursosHumanosProyecto/blob/main/RecursosHumanosNV/bin/co/edu/unbosque/model/persistance/FileHandler.class)
+
+
+
