@@ -9,12 +9,12 @@
 
 <p align="center">--------------------       🖤       --------------------       🖤       --------------------       🖤       --------------------       🖤       --------------------       🖤       --------------------</p>
 
-<p align="center">No se si seas consciente de lo importante que es para nosotras este repositorio, a ver, es nuestro primer repositorio diseñado, y administrado solo por nosotras, lo que quiere decir que es algo que aprendimos hace poco jiji...</p>
+<p align="center"> No sé si seas consciente de lo importante que es para nosotras este repositorio, a ver, es nuestro primer repositorio diseñado, y administrado solo por nosotras, lo que quiere decir que es algo que aprendimos hace poco jijiji...</p>
 
 <h3 align="center">Y por eso es tan especial 😎</h3>
 
 <p align="center">Bueno, tambien lo hace especial el hecho de que sea el ReadMe del proyecto que probablemente vas a ver a continuacíon :v</p>
-<p align="center">Pero esas son cosas menores, pasemos al pryecto...</p>
+<p align="center">Pero esas son cosas menores, pasemos al proyecto...</p>
 
 
 # Recursos Humanos
