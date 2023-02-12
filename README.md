@@ -74,11 +74,17 @@ Lo siguiente que encontrarás en este paquete, será el archivo serializado, est
 
 Este es el paquete de vista o en nuestro caso "View". Es en el que contendremos todas las clases en las que crearemos todo el código correspondiente de la Interfaz Gráfica del Usuario.
 
-Cada una de las ventanas funcionales de la interfaz gráfica suele tener detras una lógica muy similar 👀, cambia dependiendo de su objetivo y diseño visual, sin embargo la creación de sus objetos y clases Keyy y Action Listener tienen el mismo procedimiento.
+Cada una de las ventanas funcionales de la interfaz gráfica suele tener detras una lógica muy similar 👀, cambia dependiendo de su objetivo y diseño visual, sin embargo la creación de sus objetos y clases Keyy y Action Listener tienen la misma creación y función.
 
-<h3 align="center">Por esta razón queremos que veas un poco de nuestra interfaz final y procederemos a explicarte los asuntos importantes...</h3>
+<h3 align="center">Te dejamos a continuación las clases de la GUI por si te interesan:</h3>
 
-<center><img src="Imagenes/GUI.png" alt""></center>
+- [AgregarCandidato](https://github.com/NatVerB/RecursosHumanosProyecto/blob/main/RecursosHumanosNV/bin/co/edu/unbosque/view/AgregarCandidato.class)
+- [EliminarCandidato](https://github.com/NatVerB/RecursosHumanosProyecto/blob/main/RecursosHumanosNV/bin/co/edu/unbosque/view/EliminarCandidato.class)
+- [ModificarCandidato](https://github.com/NatVerB/RecursosHumanosProyecto/blob/main/RecursosHumanosNV/bin/co/edu/unbosque/view/ModificarCandidato.class)
+- [ListarCandidatos](https://github.com/NatVerB/RecursosHumanosProyecto/blob/main/RecursosHumanosNV/bin/co/edu/unbosque/view/ListarCandidatos.class)
+- [ListaEspecifica](https://github.com/NatVerB/RecursosHumanosProyecto/blob/main/RecursosHumanosNV/bin/co/edu/unbosque/view/ListaEspecifica.class)
+- [Menu](https://github.com/NatVerB/RecursosHumanosProyecto/blob/main/RecursosHumanosNV/bin/co/edu/unbosque/view/Menu.class)
+
 
 
 
