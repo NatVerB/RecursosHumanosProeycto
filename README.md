@@ -5,7 +5,7 @@
 <p align="center">
 <h3 align="center">¡Holi, Bienvenido A Nuestro Repositorio!</h3>
 </p>
-<p align="center">Nos alegra mucho que estés aquí, por eso intentamos diseñar un ReadMe que fuera muy bonito, para poder contarte un poco de todo esto 🖤</p>
+<p align="center"> >>Nos alegra mucho que estés aquí, por eso intentamos diseñar un ReadMe que fuera muy bonito, para poder contarte un poco de todo esto<< </p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
