@@ -37,6 +37,8 @@ Sumado a esto, el programa debe poder eliminar, listar y modificar a cada candid
 
 ## [Controller:](https://github.com/NatVerB/RecursosHumanosProyecto/tree/main/RecursosHumanosNV/bin/co/edu/unbosque/controller)
 
+* AplMain
+ *holi 
 
 
 
