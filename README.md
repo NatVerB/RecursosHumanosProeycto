@@ -15,6 +15,8 @@
 
 <p align="center">Bueno, tambien lo hace especial el hecho de que sea el ReadMe del proyecto que probablemente vas a ver despues :v</p>
 
+Entonces, hablemos...
+
 
 
 
