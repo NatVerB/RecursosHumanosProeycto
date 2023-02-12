@@ -13,12 +13,12 @@
 
 <h3 align="center">Y por eso es tan especial 😎</h3>
 
-<p align="center">Bueno, tambien lo hace especial el hecho de que sea el ReadMe del proyecto que probablemente vas a ver despues :v</p>
-<p align="center">Entonces, hablemos...</p>
+<p align="center">Bueno, tambien lo hace especial el hecho de que sea el ReadMe del proyecto que probablemente vas a ver a continuacíon :v</p>
+<p align="center">Pero esas son cosas menores, pasemos al pryecto...</p>
 
 # Recursos Humanos
 
-Una empresa de recursos humanos nos ha contratado para elaborar un programa que le ayude a almacenar los candidatos nuevos de la empresa. Deben ser ingresados con los siguientes datos:
+Una "Empresa" de recursos humanos nos ha contratado, a nosotras [Nat✨](https://github.com/NatVerB) y [Arekusandora🧛](https://github.com/ArekuInBlueee), para elaborar un programa que le ayude a almacenar los candidatos nuevos de la empresa. Deben ser ingresados con los siguientes datos:
 
  - Nombres
 
