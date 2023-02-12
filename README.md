@@ -33,6 +33,10 @@ Una "Empresa" de recursos humanos nos ha contratado, a nosotras [Nat💙](https:
 
 Sumado a esto, el programa debe poder eliminar, listar y modificar a cada candidato, además de poder listar a todos los candidatos que la empresa tiene registrados. Se requiere que el Software sea elaborado con el patrón MVC, incluya las Clases DAO Y DTO y sea capaz de serializar y deserializar la información.
 
+# Código Fuente del Software
+
+## [Controller:](https://github.com/NatVerB/RecursosHumanosProyecto/tree/main/RecursosHumanosNV/bin/co/edu/unbosque/controller)
+
 
 
 
