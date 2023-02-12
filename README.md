@@ -42,14 +42,18 @@ Sumado a esto, el programa debe poder eliminar, listar y modificar a cada candid
  Esta es la clase Main, la cual llamamos comunmente AplMain, es la clase que contendrá el método que dará "Inicio" como su nombre lo indica, a todo el
  funcionamiento del programa.
  
- * [Controller](https://github.com/NatVerB/RecursosHumanosProyecto/blob/main/RecursosHumanosNV/bin/co/edu/unbosque/controller/Controller.class)
+* [Controller](https://github.com/NatVerB/RecursosHumanosProyecto/blob/main/RecursosHumanosNV/bin/co/edu/unbosque/controller/Controller.class)
  
  Esta es la clase Controller, será quien contendrá el metodo controlador que cada una de las clases que el programa pueda necesitar para su correcto funcionamiento.
  
  ## [Model:](https://github.com/NatVerB/RecursosHumanosProyecto/tree/main/RecursosHumanosNV/bin/co/edu/unbosque/model)
  
- * [CandidatosDAO](https://github.com/NatVerB/RecursosHumanosProyecto/blob/main/RecursosHumanosNV/bin/co/edu/unbosque/model/CandidatosDAO.class)
+* [CandidatosDAO](https://github.com/NatVerB/RecursosHumanosProyecto/blob/main/RecursosHumanosNV/bin/co/edu/unbosque/model/CandidatosDAO.class)
  
 Esta es la clase CandidatosDAO, es la que contiene todos los metodos que se van a ejecutar para que el software pueda Agregar, Eliminar, Modificar y Listar a los candidatos correctamente. Un ejemplo de estos métodos es el de listarCandidatos() y listarEspe() En en el que ambos hacen teoricamente lo mismo, pero uno listará a todos los candidatos y el otro listará a el candidato especifico que se consulte por su cédula.
 
+* [CandidatosDTO](https://github.com/NatVerB/RecursosHumanosProyecto/blob/main/RecursosHumanosNV/bin/co/edu/unbosque/model/CandidatosDTO.class)
 
+Esta es la clase CandidatosDTO, es en donde crearemos al objeto "Candidatos" con sus respectivas características y atributos, con el fin de poder guardar sus datos y representarlo cuando lo necesitemos.
+
+### [Persistance:](https://github.com/NatVerB/RecursosHumanosProyecto/tree/main/RecursosHumanosNV/bin/co/edu/unbosque/model/persistance)
