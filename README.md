@@ -62,5 +62,7 @@ Persistance, es un paquete que creamos dentro del paquete modelo o "Model", ya q
 
 * [FileHandler](https://github.com/NatVerB/RecursosHumanosProyecto/blob/main/RecursosHumanosNV/bin/co/edu/unbosque/model/persistance/FileHandler.class)
 
-Esta es la clase FileHandler, la cual tiene como función el correcto serializado de la información de los candidatos registrados en el programa 👩‍💻. Cuenta con dos métodos muy importantes: readSerializable() y writeSerializable(). Estos métodos nos servirán, uno: Para obtener la informacion del candidato, ya añadida al archivo serializado, para luego poder agregarlos nuevos al ejecutar el programa y tener la información válida. Dos: Para escribir la información de los candidatos o las modificaciones realizadas a los mismos en el documento serializado para que se encuentre actualizado.
+Esta es la clase FileHandler, la cual tiene como función el correcto serializado de la información de los candidatos registrados en el programa 👩‍💻.
+
+Cuenta con dos métodos muy importantes: readSerializable() y writeSerializable(). Estos métodos nos servirán, uno: Para obtener la informacion del candidato, ya añadida al archivo serializado, para luego poder agregarlos nuevos al ejecutar el programa y tener la información válida. Dos: Para escribir la información de los candidatos o las modificaciones realizadas a los mismos en el documento serializado para que se encuentre actualizado.
 
