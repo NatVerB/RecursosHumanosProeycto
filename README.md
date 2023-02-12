@@ -87,7 +87,10 @@ Cada una de las ventanas funcionales de la interfaz gráfica suele tener detras 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Bien, ahora que te hemos explicado un poco más de que va esto, esperamos que te sea de mucha utilidad esta información y que si así lo necesitas, pueda ayudarte cualquier elemento de este repositorio... 
+Bien, ahora que te hemos explicado un poco mas de que va esto, esperamos que te sea de mucha utilidad esta información y que si así lo necesitas, pueda ayudarte cualquier elemento de este repositorio...
+
+Si todavia tienes dudas, puedes consultar nuestro documento [JavaDoc]() del Software, en donde podrás encontrar absolutamente toda la información acerca del programa.
+=======
 
 ## Hasta Luego 💋
 
