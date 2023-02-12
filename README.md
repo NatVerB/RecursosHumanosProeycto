@@ -9,13 +9,29 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p align="center">No se si seas consciente de lo importante que es para nosotras este repositorio, a ver, es nuestro primer repositorio diseñado, y administrado solo por nosotras, lo que quiere decir que es algo que aprendimos hace poco jiji</p>
+<p align="center">No se si seas consciente de lo importante que es para nosotras este repositorio, a ver, es nuestro primer repositorio diseñado, y administrado solo por nosotras, lo que quiere decir que es algo que aprendimos hace poco jiji...</p>
 
 <h3 align="center">Y por eso es tan especial 😎</h3>
 
 <p align="center">Bueno, tambien lo hace especial el hecho de que sea el ReadMe del proyecto que probablemente vas a ver despues :v</p>
+<p align="center">Entonces, hablemos...</p>
 
-Entonces, hablemos...
+# Recursos Humanos
+
+Una empresa de recursos humanos nos ha contratado para elaborar un programa que le ayude a almacenar los candidatos nuevos de la empresa. Deben ser ingresados con los siguientes datos:
+
+ - Nombres
+
+ - Apellidos
+
+ - Cédula
+
+ - Edad
+
+ - Cargo
+
+Además de poder crearlos, debe poder eliminarlos, listarlos y modificarlos. Todo esto 
+debe llevar el patrón MVC, Clases DAO Y DTO y Serializado.
 
 
 
