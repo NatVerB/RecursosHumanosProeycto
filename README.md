@@ -45,5 +45,11 @@ Sumado a esto, el programa debe poder eliminar, listar y modificar a cada candid
  * [Controller](https://github.com/NatVerB/RecursosHumanosProyecto/blob/main/RecursosHumanosNV/bin/co/edu/unbosque/controller/Controller.class)
  
  Esta es la clase Controller, será quien contendrá el metodo controlador que cada una de las clases que el programa pueda necesitar para su correcto funcionamiento.
+ 
+ ## [Model:](https://github.com/NatVerB/RecursosHumanosProyecto/tree/main/RecursosHumanosNV/bin/co/edu/unbosque/model)
+ 
+ * [CandidatosDAO](https://github.com/NatVerB/RecursosHumanosProyecto/blob/main/RecursosHumanosNV/bin/co/edu/unbosque/model/CandidatosDAO.class)
+ 
+Esta es la clase CandidatosDAO, es la que contiene todos los metodos que se van a ejecutar para que el software pueda Agregar, Eliminar, Modificar y Listar a los candidatos correctamente. Un ejemplo de estos métodos es el de listarCandidatos() y listarEspe() En en el que ambos hacen teoricamente lo mismo, pero uno listará a todos los candidatos y el otro listará a el candidato especifico que se consulte por su cédula.
 
 
