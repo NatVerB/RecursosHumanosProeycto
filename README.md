@@ -41,6 +41,9 @@ Sumado a esto, el programa debe poder eliminar, listar y modificar a cada candid
 
  Esta es la clase Main, la cual llamamos comunmente AplMain, es la clase que contendrá el método que dará "Inicio" como su nombre lo indica, a todo el
  funcionamiento del programa.
-
+ 
+ * [Controller](https://github.com/NatVerB/RecursosHumanosProyecto/blob/main/RecursosHumanosNV/bin/co/edu/unbosque/controller/Controller.class)
+ 
+ Esta es la clase Controller, será quien contendrá el metodo controlador que cada una de las clases que el programa pueda necesitar para su correcto funcionamiento.
 
 
