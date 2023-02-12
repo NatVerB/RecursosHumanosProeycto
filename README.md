@@ -70,3 +70,15 @@ Cuenta con dos métodos muy importantes: readSerializable() y writeSerializable(
 
 Lo siguiente que encontrarás en este paquete, será el archivo serializado, este puede crearse directamente desde el Software y será el archivo en el que se guarde o se lea toda la información serializada 🤑.
 
+## [View:](https://github.com/NatVerB/RecursosHumanosProyecto/tree/main/RecursosHumanosNV/bin/co/edu/unbosque/view)
+
+Este es el paquete de vista o en nuestro caso "View". Es en el que contendremos todas las clases en las que crearemos todo el código correspondiente de la Interfaz Gráfica del Usuario.
+
+Cada una de las ventanas funcionales de la interfaz gráfica suele tener detras una lógica muy similar 👀, cambia dependiendo de su objetivo y diseño visual, sin embargo la creación de sus objetos y clases Keyy y Action Listener tienen el mismo procedimiento.
+
+<h3 align="center">Por esta razón queremos que veas un poco de nuestra interfaz final y procederemos a explicarte los asuntos importantes...</h3>
+
+<div align="center"><img src="https://i.pinimg.com/564x/7d/a2/ab/7da2abca1de4d6219dee0d9407f67e9b.jpg"></div>
+
+
+
