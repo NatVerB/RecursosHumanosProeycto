@@ -78,7 +78,7 @@ Cada una de las ventanas funcionales de la interfaz gráfica suele tener detras 
 
 <h3 align="center">Por esta razón queremos que veas un poco de nuestra interfaz final y procederemos a explicarte los asuntos importantes...</h3>
 
-<div align="center"><img src="https://i.pinimg.com/564x/7d/a2/ab/7da2abca1de4d6219dee0d9407f67e9b.jpg"></div>
+<div align="center"><img src="Imagenes/GUI.png"></div>
 
 
 
