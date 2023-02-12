@@ -85,6 +85,13 @@ Cada una de las ventanas funcionales de la interfaz gráfica suele tener detras 
 - [ListaEspecifica📑](https://github.com/NatVerB/RecursosHumanosProyecto/blob/main/RecursosHumanosNV/bin/co/edu/unbosque/view/ListaEspecifica.class)
 - [Menu📋](https://github.com/NatVerB/RecursosHumanosProyecto/blob/main/RecursosHumanosNV/bin/co/edu/unbosque/view/Menu.class)
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bien, ahora que te hemos explicado un poco mas de que va esto, esperamos que te sea de mucha utilidad esta información y que si así lo necesitas, pueda ayudarte cualquier elemento de este repositorio... 
+
+## Hasta Luego 💋
+
+
 
 
 
